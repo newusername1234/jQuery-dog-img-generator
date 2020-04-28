@@ -1,0 +1,12 @@
+#img-getter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#img-container {
+    width: 50vw;
+    height: 50vh;
+    border: 20px solid blue;
+    background-color: lightgray;
+}
